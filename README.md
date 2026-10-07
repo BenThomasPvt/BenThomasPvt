@@ -11,9 +11,9 @@ I work primarily with **Python and web technologies**, and I'm currently strengt
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Web & Backend
 
@@ -24,11 +24,11 @@ I work primarily with **Python and web technologies**, and I'm currently strengt
 
 ### AI & Data
 
-![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
@@ -58,7 +58,7 @@ The project evolved from an earlier **TF-IDF and cosine-similarity chatbot** int
 
 An AI-based malware detection project using **CNN and LSTM** models for malware classification.
 
-The project explores deep-learning approaches to malware detection by transforming malware binaries into image representations for classification.
+The project explores deep-learning approaches to applying neural networks to malware detection.
 
 **Tech:** Python · TensorFlow/Keras · CNN · LSTM · Deep Learning
 
@@ -84,29 +84,44 @@ A structured, topic-wise collection of **HackerRank and LeetCode solutions** cre
 
 ## 📚 Coursework
 
-- [**CS50x — Introduction to Computer Science**](https://github.com/BenThomasPvt/CS50-X)
-- [**CS50P — Introduction to Programming with Python**](https://github.com/BenThomasPvt/CS50-Python)
-- [**CS50 Web — Web Programming with Python and JavaScript**](https://github.com/BenThomasPvt/CS50-Web)
+- [CS50x — Introduction to Computer Science](https://github.com/BenThomasPvt/CS50-X)
+- [CS50P — Introduction to Programming with Python](https://github.com/BenThomasPvt/CS50-Python)
+- [CS50 Web](https://github.com/BenThomasPvt/CS50-Web)
 
 ---
 
 ## 📜 Certifications
 
-- **CS50x: Introduction to Computer Science** — Harvard University
-- **CS50P: Introduction to Programming with Python** — Harvard University
+- [CS50x — Introduction to Computer Science](https://github.com/BenThomasPvt/Certificates/blob/main/Harvard-CS50/CS50x-Intro-to-CS.pdf) — Harvard University
+- [CS50P — Introduction to Programming with Python](https://github.com/BenThomasPvt/Certificates/blob/main/Harvard-CS50/CS50P-Intro-to-Python.pdf) — Harvard University
 
 ---
 
 ## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact)
+### Most Used Languages
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+  />
+</picture>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benthomaspvt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benny%20Thomas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benthomaspvt/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BenThomasPvt)
+[![GitHub](https://img.shields.io/badge/GitHub-BenThomasPvt-181717?style=flat&logo=github&logoColor=white)](https://github.com/BenThomasPvt)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benthomaspvt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-benthomaspvt%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benthomaspvt@gmail.com)
