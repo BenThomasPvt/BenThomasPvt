@@ -1,71 +1,112 @@
-# 👋 Hi, I'm Benny Thomas  
+# 👋 Hi, I'm Benny Thomas
 
-🎓 Final-year Computer Science & Engineering Student (JNTUH - MRCE, 2022–2026)  
-💻 Aspiring **Web & AI Developer** | Harvard **CS50 Certified**  
-🌱 Skilled in **Full-stack Web Development, Python, and AI/ML projects**  
-🚀 Passionate about building scalable applications and deploying **AI-driven solutions**  
+I'm a **Computer Science Engineering graduate** and aspiring software engineer focused on building practical solutions with code and exploring AI.
 
----
-
-## 📝 Profile Summary
-Final-year Computer Science undergraduate with hands-on experience in **full-stack web development, Python programming, and applied AI/ML projects**.  
-Completed **Harvard CS50x, CS50P, and CS50 Web**, showcasing strong problem-solving and software development skills.  
-Currently seeking opportunities in **Web Development, AI, and Software Engineering**.  
+I work primarily with **Python and web technologies**, and I'm currently strengthening my software engineering and problem-solving skills while exploring **AI/ML and data-focused applications**.
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+### Web & Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### AI & Data
+
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-🔹 [Agribot](https://github.com/BenThomasPvt/agribot) – Agriculture Assistant Chatbot using **Django + NLP**  
-🔹 [Malware Detection](https://github.com/BenThomasPvt/malware-detection) – Intelligent Malware Detection using **Deep Learning (CNN + LSTM)**  
-🔹 [DSA](https://github.com/BenThomasPvt/DSA) – **HackerRank + LeetCode DSA Problems**, topic-wise structured archive  
-🔹 [CS50-X](https://github.com/BenThomasPvt/CS50-X) – Solutions to **CS50x: Introduction to Computer Science**  
-🔹 [CS50-Python](https://github.com/BenThomasPvt/CS50-Python) – Solutions to **CS50P: Introduction to Programming with Python**  
-🔹 [Certificates](https://github.com/BenThomasPvt/Certificates) – Archive of **certifications, events, and achievements**  
-🔹 [Resume](https://github.com/BenThomasPvt/Resume) – My **latest updated resume**
+## 🚀 Featured Projects
+
+### 🌾 [AgriBot — RAG-Powered Agriculture Assistant](https://github.com/BenThomasPvt/Agribot)
+
+A Django-based agriculture assistant that uses **Retrieval-Augmented Generation (RAG)** to answer questions using information retrieved from an agricultural knowledge base.
+
+The system uses **semantic search, embeddings, ChromaDB, and an LLM** to retrieve relevant information and generate grounded responses with source-page information.
+
+The project evolved from an earlier **TF-IDF and cosine-similarity chatbot** into a retrieval-based LLM application.
+
+**Tech:** Python · Django · RAG · ChromaDB · LLMs
 
 ---
 
-## 🎓 Education
-**B.Tech, Computer Science & Engineering** – JNTUH (2022–2026)  
-Final-year student with strong interest in **Web Development, AI/ML, and DSA**.  
+### 🛡️ [Robust Malware Detection](https://github.com/BenThomasPvt/Robust-Malware-Detection)
+
+An AI-based malware detection project using **CNN and LSTM** models for malware classification.
+
+The project explores deep-learning approaches to malware detection by transforming malware binaries into image representations for classification.
+
+**Tech:** Python · TensorFlow/Keras · CNN · LSTM · Deep Learning
+
+---
+
+### 🧩 [DSA](https://github.com/BenThomasPvt/DSA)
+
+A structured, topic-wise collection of **HackerRank and LeetCode solutions** created as part of ongoing data structures, algorithms, and software engineering interview preparation.
+
+**Tech:** Java · Data Structures · Algorithms · Problem Solving
+
+---
+
+## 🌱 Currently Exploring
+
+- Data Structures & Algorithms
+- Backend development with Django
+- Retrieval-Augmented Generation (RAG)
+- AI/ML applications
+- Software engineering fundamentals
+
+---
+
+## 📚 Coursework
+
+- [**CS50x — Introduction to Computer Science**](https://github.com/BenThomasPvt/CS50-X)
+- [**CS50P — Introduction to Programming with Python**](https://github.com/BenThomasPvt/CS50-Python)
+- [**CS50 Web — Web Programming with Python and JavaScript**](https://github.com/BenThomasPvt/CS50-Web)
 
 ---
 
 ## 📜 Certifications
-- **CS50x: Introduction to Computer Science** – Harvard / edX  
-- **CS50P: Introduction to Programming with Python** – Harvard / edX  
+
+- **CS50x: Introduction to Computer Science** — Harvard University
+- **CS50P: Introduction to Programming with Python** — Harvard University
 
 ---
 
-## 📊 GitHub Stats
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenThomasPvt&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenThomasPvt&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=BenThomasPvt&theme=radical&margin-w=5&no-bg=true)  
+## 📊 GitHub
 
----
-
-
-## 📝 Profile Summary Card
-![Ben’s GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenThomasPvt&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenThomasPvt&layout=compact)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-thomas-pvt)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BenThomasPvt)  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benthomaspvt/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BenThomasPvt)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benthomaspvt@gmail.com)
